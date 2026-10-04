@@ -16,8 +16,8 @@ git init
 
 Cấu hình danh tính cục bộ (bắt buộc `--local`, không dùng `--global`):
 ```bash
-git config --local user.name "hoangduong"
-git config --local user.email "hoangduong2062006@gmail.com"
+git config --local user.name "LeeAnhs"
+git config --local user.email "vanle9540@gmail.com"
 ```
 
 Kiểm tra cấu hình:
